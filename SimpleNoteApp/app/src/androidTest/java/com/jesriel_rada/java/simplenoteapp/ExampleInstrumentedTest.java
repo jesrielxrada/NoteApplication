@@ -1,4 +1,4 @@
-package com.jesriel_rada.kotlin.simplenoteapp;
+package com.jesriel_rada.java.simplenoteapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
